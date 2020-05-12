@@ -1,0 +1,25 @@
+/* Styles for all text*/
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(61, 67, 73);
+    font-size: 20px;
+}
+h1 {
+    font-family: 'Cardo', serif;
+    color: rgb(39, 38, 38);
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #e93b3b;
+}
+h2,h4 {
+    font-family: 'Cardo', serif;
+    font-size: 40px;
+}
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(240, 67, 4);
+    font-size: 20px;
+}
+table {
+    background-color: oldlace;
+    font-family: 'Cardo', serif;
+}
